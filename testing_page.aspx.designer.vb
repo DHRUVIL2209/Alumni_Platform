@@ -32,6 +32,15 @@ Partial Public Class testing_page
     Protected WithEvents txt1 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
+    '''testin_lbl control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents testin_lbl As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
     '''btn1 control.
     '''</summary>
     '''<remarks>
